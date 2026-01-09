@@ -12,9 +12,6 @@ This project builds a machine learning model to predict customer churn using dem
 - Evaluate models using accuracy, precision, recall, and F1-score
 - Practice production-style ML project structure and Git workflows
 
-## Dataset
-The project uses a public customer churn dataset.
-
 ## Tech Stack
 - Python
 - pandas
