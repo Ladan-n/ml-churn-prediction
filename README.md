@@ -20,3 +20,14 @@ The project uses a public customer churn dataset.
 - pandas
 - scikit-learn
 - matplotlib / seaborn
+
+## Dataset
+
+This project uses the Telco Customer Churn dataset from IBM.
+
+**Source:** Kaggle – Telco Customer Churn
+
+To run the notebooks:
+1. Download the dataset from Kaggle
+2. Place the CSV file in `data/raw/`
+3. Ensure the file is named `telco_customer_churn.csv`
