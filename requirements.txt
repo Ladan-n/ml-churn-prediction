@@ -6,3 +6,4 @@ jupyter
 ipykernel
 seaborn
 xgboost
+shap>=0.44.0
